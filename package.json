@@ -31,7 +31,7 @@
     "eslint-plugin-unused-imports": "^2.0.0",
     "prettier": "^2.8.0",
     "ts-node": "^10.9.1",
-    "typescript": "^4.9.3"
+    "typescript": "^5.1.5"
   },
   "bugs": {
     "url": "https://github.com/stackup-wallet/erc-4337-examples/issues"
